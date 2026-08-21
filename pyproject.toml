@@ -1,0 +1,12 @@
+[project]
+name = "ai-signal-terminal"
+version = "0.1.0"
+description = "Open-source software demonstrator for an AI-enabled signal processing terminal with interactive data interpretation."
+requires-python = ">=3.11"
+license = {text = "MIT"}
+authors = [{name = "Rohith Bommalla Naresh"}]
+
+[tool.pytest.ini_options]
+pythonpath = ["."]
+testpaths = ["tests"]
+addopts = "-q"
