@@ -1,3 +1,3 @@
-"""Core analysis library for AI Signal Terminal."""
+"""AI Signal Terminal core package."""
 
-__version__ = "0.1.0"
+__version__ = "0.2.0"
